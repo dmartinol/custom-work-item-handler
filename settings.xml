@@ -1,0 +1,22 @@
+<settings>
+    <servers>
+        <server>
+            <id>rhpam</id>
+            <username>dmartino</username>
+            <password>dMartino123</password>
+        </server>
+        <server>
+            <id>rhpam-mirror</id>
+            <username>deployer</username>
+            <password>deployer123</password>
+        </server>
+    </servers>
+  <!--mirrors>
+    <mirror>
+      <id>other-mirror</id>
+      <name>Other Mirror Repository</name>
+      <url>http://nexusrepo.apps.tem-lab01.fsi.rhecoeng.com/repository/rhpam-mirror790</url>
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors-->
+</settings>
